@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "utf-8">
+<title>HW2-1</title>
+</head>
+<body>
+
+<h1>廖昱凱的課表</h1>
+<table border = "1">
+<tr>
+  <th>星期<br>節次</th>
+  <th>星期一</th>
+  <th>星期二</th>
+  <th>星期三</th>
+  <th>星期四</th>
+  <th>星期五</th>
+</tr>
+<tr>
+  <th>第一節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第二節</th>
+  <td>計算機結<br>構學 </td>
+  <td></td>
+  <td rowspan="3">創業入門</td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第三節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td rowspan="2">向量分析</td>
+</tr>
+<tr>
+  <th>第四節</th>
+  <td> </td>
+  <td> </td>
+  <td> 資訊與網<br>路安全 </td>
+</tr>
+<tr>
+  <th>第五節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第六節</th>
+  <td> </td>
+  <td rowspan="2">資訊與網<br>路安全</td>
+  <td> </td>
+  <td> </td>
+  <td>班級活動</td>
+</tr>
+<tr>
+  <th>第七節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td>計算機概<br>論(一)</td>
+</tr>
+<tr>
+  <th>第八節</th>
+  <td> </td>
+  <td rowspan="2">計算機結<br>構學 </td>
+  <td rowspan="2">計算機概<br>論(一) </td>	
+  <td> </td>
+  <td rowspan="3">計算機概<br>論實習<br>(一) </td>	
+</tr>
+<tr>
+  <th>第九節</th>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第十節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第十一節</th>
+  <td> </td>
+  <td rowspan="3">Web程式<br/>設計</td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第十二節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <th>第十三節</th>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>	
+</tr>
+
+</body>
+</html>
